@@ -69,7 +69,6 @@
     <Content Include="Assets\images\dragon-forest.png" />
     <Content Include="Assets\images\dragon-logo.png" />
     <Content Include="Assets\images\dragon-palace.jpg" />
-    <Content Include="Assets\images\dragon-rider.jpg" />
     <Content Include="Assets\images\dragon-sea.jpg" />
     <Content Include="Assets\images\dragon-treasure.jpg" />
     <Content Include="Assets\images\Dragon_Riding.png" />
@@ -80,7 +79,7 @@
     <Content Include="Assets\images\RightCaveButton.png" />
     <Content Include="Assets\images\StartButton.png" />
     <Content Include="butterfly.html" />
-    <Content Include="index -GettingStart.html" />
+    <Content Include="index-GettingStart.html" />
     <Content Include="packages.config" />
     <Content Include="Assets\audio\meow.ogg" />
     <Content Include="Assets\audio\bell.ogg" />
